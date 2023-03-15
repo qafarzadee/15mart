@@ -1,0 +1,15 @@
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.csproj.AssemblyReference.cache
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.AssemblyInfoInputs.cache
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.AssemblyInfo.cs
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.csproj.CoreCompileInputs.cache
+/Users/elgungafarzade/Projects/15marrt/15marrt/bin/Debug/net6.0/15marrt
+/Users/elgungafarzade/Projects/15marrt/15marrt/bin/Debug/net6.0/15marrt.deps.json
+/Users/elgungafarzade/Projects/15marrt/15marrt/bin/Debug/net6.0/15marrt.runtimeconfig.json
+/Users/elgungafarzade/Projects/15marrt/15marrt/bin/Debug/net6.0/15marrt.dll
+/Users/elgungafarzade/Projects/15marrt/15marrt/bin/Debug/net6.0/15marrt.pdb
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.dll
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/refint/15marrt.dll
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.pdb
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/15marrt.genruntimeconfig.cache
+/Users/elgungafarzade/Projects/15marrt/15marrt/obj/Debug/net6.0/ref/15marrt.dll
